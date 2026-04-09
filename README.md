@@ -4,4 +4,4 @@ A collection of articles on Product Discovery, AI tooling, and building things a
 ## Published
 
 - [How I Built a Production Validation Environment as a PM](./autopaylab-validation-setup.md)
-- [EverydayAI: Travel Planner Offline App](./everydayai-travel-planner.md)
+- [EverydayAI: Travel Planner Offline App](./EverydayAI:%20Travel%20Planner%20Offline%20App.md)
